@@ -1,3 +1,4 @@
 ﻿  01-1-Q4.cpp
 C:\Users\annzy\OneDrive\바탕 화면\_Practice_Cpp\Chapter01\01-1-Q4\01-1-Q4.cpp(30,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\annzy\OneDrive\바탕 화면\_Practice_Cpp\Chapter01\x64\Debug\01-1-Q4.exe not found or not built by the last incremental link; performing full link
   01-1-Q4.vcxproj -> C:\Users\annzy\OneDrive\바탕 화면\_Practice_Cpp\Chapter01\x64\Debug\01-1-Q4.exe

@@ -1,0 +1,2 @@
+﻿  BankingSystemVer01.cpp
+C:\Users\annzy\OneDrive\바탕 화면\_Practice_Cpp\Chapter01\BankingSystemVer01\BankingSystemVer01.cpp(83,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

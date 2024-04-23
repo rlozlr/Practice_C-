@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFF6D51F-2612-4C1E-BCA7-71DC0D35B46B}|01-1-Q4\\01-1-Q4.vcxproj|C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q4\\01-1-Q4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BFF6D51F-2612-4C1E-BCA7-71DC0D35B46B}|01-1-Q4\\01-1-Q4.vcxproj|solutionrelative:01-1-Q4\\01-1-Q4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{89718E4C-FF7B-4617-84BF-387F5C2D7834}|BankingSystemVer01\\BankingSystemVer01.vcxproj|C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\BankingSystemVer01\\BankingSystemVer01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89718E4C-FF7B-4617-84BF-387F5C2D7834}|BankingSystemVer01\\BankingSystemVer01.vcxproj|solutionrelative:BankingSystemVer01\\BankingSystemVer01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1199AD-DD23-4B2C-8B53-676EF9E0F723}|01-1-Q1\\01-1-Q1.vcxproj|C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q1\\01-1-Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A1199AD-DD23-4B2C-8B53-676EF9E0F723}|01-1-Q1\\01-1-Q1.vcxproj|solutionrelative:01-1-Q1\\01-1-Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDE46445-2D5A-47C9-8697-52095FC84A9B}|01-1-Q2\\01-1-Q2.vcxproj|C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q2\\01-1-Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDE46445-2D5A-47C9-8697-52095FC84A9B}|01-1-Q2\\01-1-Q2.vcxproj|solutionrelative:01-1-Q2\\01-1-Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44D7D77B-D035-4D88-ACCF-768998346C8E}|01-1-Q3\\01-1-Q3.vcxproj|C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q3\\01-1-Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44D7D77B-D035-4D88-ACCF-768998346C8E}|01-1-Q3\\01-1-Q3.vcxproj|solutionrelative:01-1-Q3\\01-1-Q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{69CAEA15-A56A-4901-900F-7913A621B678}|01-4-Q\\01-4-Q.vcxproj|C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-4-Q\\src2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69CAEA15-A56A-4901-900F-7913A621B678}|01-4-Q\\01-4-Q.vcxproj|solutionrelative:01-4-Q\\src2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "01-1-Q4.cpp",
-              "DocumentMoniker": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q4\\01-1-Q4.cpp",
-              "RelativeDocumentMoniker": "01-1-Q4\\01-1-Q4.cpp",
-              "ToolTip": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q4\\01-1-Q4.cpp",
-              "RelativeToolTip": "01-1-Q4\\01-1-Q4.cpp",
-              "ViewState": "AQIAABQAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Title": "BankingSystemVer01.cpp",
+              "DocumentMoniker": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\BankingSystemVer01\\BankingSystemVer01.cpp",
+              "RelativeDocumentMoniker": "BankingSystemVer01\\BankingSystemVer01.cpp",
+              "ToolTip": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\BankingSystemVer01\\BankingSystemVer01.cpp",
+              "RelativeToolTip": "BankingSystemVer01\\BankingSystemVer01.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAswGkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-19T15:24:10.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "01-1-Q3.cpp",
-              "DocumentMoniker": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q3\\01-1-Q3.cpp",
-              "RelativeDocumentMoniker": "01-1-Q3\\01-1-Q3.cpp",
-              "ToolTip": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q3\\01-1-Q3.cpp",
-              "RelativeToolTip": "01-1-Q3\\01-1-Q3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-19T15:13:07.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "01-1-Q2.cpp",
-              "DocumentMoniker": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q2\\01-1-Q2.cpp",
-              "RelativeDocumentMoniker": "01-1-Q2\\01-1-Q2.cpp",
-              "ToolTip": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q2\\01-1-Q2.cpp",
-              "RelativeToolTip": "01-1-Q2\\01-1-Q2.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-19T15:07:52.67Z",
+              "WhenOpened": "2024-04-23T03:36:49.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "01-1-Q1.cpp",
-              "DocumentMoniker": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q1\\01-1-Q1.cpp",
-              "RelativeDocumentMoniker": "01-1-Q1\\01-1-Q1.cpp",
-              "ToolTip": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-1-Q1\\01-1-Q1.cpp",
-              "RelativeToolTip": "01-1-Q1\\01-1-Q1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Title": "src2.cpp",
+              "DocumentMoniker": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-4-Q\\src2.cpp",
+              "RelativeDocumentMoniker": "01-4-Q\\src2.cpp",
+              "ToolTip": "C:\\Users\\annzy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\_Practice_Cpp\\Chapter01\\01-4-Q\\src2.cpp",
+              "RelativeToolTip": "01-4-Q\\src2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-19T15:05:27.4Z",
+              "WhenOpened": "2024-04-23T02:57:52.266Z",
               "EditorCaption": ""
             }
           ]
