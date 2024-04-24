@@ -1,20 +1,31 @@
-﻿// 02-1-Q1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+﻿#include <iostream>
+using namespace std;
 
-#include <iostream>
+/*
+참조자를 이용해서 다음 요구사항에 부합하는 함수를 각각 정의하여라.
+	- 인자로 전달된 int형 변수의 값을 1씩 증가시키는 함수
+	- 인자로 전달된 int형 변수의 부호를 바꾸는 함수
+그리고 위의 각 함수를 호출하여 그 결과를 확인하는 main 함수까지 작성하여라.
+*/
+
+void incrementFunc(int &num)
+{
+	num++;
+}
+
+void changeSign(int& num)
+{
+	num *= -1;
+}
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	int num = 10;
+
+	incrementFunc(num);
+	cout << num << endl;
+	
+	changeSign(num);
+	cout << num << endl;
+
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

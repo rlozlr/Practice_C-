@@ -1,0 +1,3 @@
+﻿  02-4-Q2.cpp
+C:\Users\annzy\OneDrive\바탕 화면\_Practice_Cpp\Chapter02\02-4-Q2\02-4-Q2.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  02-4-Q2.vcxproj -> C:\Users\annzy\OneDrive\바탕 화면\_Practice_Cpp\Chapter02\x64\Debug\02-4-Q2.exe
