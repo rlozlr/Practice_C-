@@ -51,4 +51,5 @@ int main()
 	pnt.SetString("I love C++");
 	pnt.ShowString();
 	return 0;
+
 }
